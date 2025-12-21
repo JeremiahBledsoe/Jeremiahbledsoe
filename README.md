@@ -1,1 +1,1 @@
-## Co-Founder @ SwiftTrust
+Co-Founder @ SwiftTrust
