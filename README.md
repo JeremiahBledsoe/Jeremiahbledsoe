@@ -6,7 +6,16 @@ IT professional focused on cloud security and AI. I build, secure, and document 
 
 ## Certifications
 
-My verified certifications are always up to date on [Credly](https://www.credly.com/users/jeremiah-bledsoe).
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- AWS Certified Cloud Practitioner (expected Dec 2026)
+
+Verify on [Credly](https://www.credly.com/users/jeremiah-bledsoe).
+
+## Education
+
+- A.A.S., Network and Cloud Architecture, Northwest Vista College (expected Dec 2026)
 
 ## Connect
 
